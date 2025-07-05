@@ -8,7 +8,7 @@ Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e
 - [Git](https://git-scm.com/downloads)
 - [Docker](https://www.docker.com/get-started/)
 
-## Projeto da Alura
+## Um estudo desenvolvido por Gabriel N. Santana
 
 Copyright 2025 Gabriel N. Santana 
 
